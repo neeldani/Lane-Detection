@@ -13,7 +13,7 @@ Clone the repository:
 ``` sh
 $foo@bar: git clone https://github.com/neeldani/Lane-Detection.git
 $foo@bar: cd Lane-Detecion
-``
+```
 
 Run the python script using:
 ``` python 
@@ -46,3 +46,6 @@ Video frame
 
 <img src="https://github.com/neeldani/Lane-Detection/blob/master/snapshots/line_img/400.jpg" width="500">
 <br />
+
+# Future Works
+This is a basic image processing soution which can be enhanced. Further contributions are thus welcomed.  
