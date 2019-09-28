@@ -13,7 +13,7 @@ Clone the repository:
 ``` sh
 $foo@bar: git clone https://github.com/neeldani/Lane-Detection.git
 $foo@bar: cd Lane-Detecion
-``
+```
 
 Run the python script using:
 ``` python 
